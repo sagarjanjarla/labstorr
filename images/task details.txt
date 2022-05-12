@@ -1,0 +1,12 @@
+1) Please convert image (template.jpg) to HTML Document. 
+2) Website should be responisve 
+3) Color code 
+   Purple : #201a58
+   Green : #69bfb4
+4) You will find images in folder 
+5) Product Names 
+   - Autoclave machine 
+   - Autoclavess machine FM-SI-A502
+   - Bath and Circulator
+
+6) Can use dummy text for contant 

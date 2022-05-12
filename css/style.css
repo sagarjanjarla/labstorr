@@ -1,0 +1,68 @@
+
+.main{
+  padding: 0 7%;
+}
+
+
+.banner-title{
+  background: #69bfb4;
+    color: white;
+}
+
+p.b-item{
+  border-style: solid;
+  border-width: 1px;
+  margin: 0;
+  border-top: 0;
+  padding: 3px;
+}
+
+
+.logo {
+  max-height: 30px;
+}
+.banner{
+  max-width:100%;
+  height:auto;
+}
+.nav-footer{
+  background: #201a58;
+}
+.footer-link {
+  color: white;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+form.d-flex{
+  border:1px solid;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.green-text{
+  color:#69bfb4;
+}
+
+.mybutton{
+  background-color:#69bfb4;
+  width : 80px;
+  height:35px;
+  font-size: 15px;
+}
+
+input{
+  border:0;
+}
+
+.rule{
+  width:20%;
+  height: 3px;
+
+}
+
+.green-indicator{
+  border-left: 2px solid;
+  border-color: #69bfb4;
+
+}
