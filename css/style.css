@@ -1,6 +1,10 @@
 
+.logo{
+  max-height: 40px;
+}
+
 .main{
-  padding: 0 7%;
+  padding: 0 6%;
 }
 
 
@@ -65,4 +69,13 @@ input{
   border-left: 2px solid;
   border-color: #69bfb4;
 
+}
+
+@media only screen and (max-width: 500px) {
+  .sm_text_center {
+    text-align: center;
+  }
+  .md_text_center{
+    text-align: center;
+  }
 }
