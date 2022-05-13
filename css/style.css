@@ -71,11 +71,24 @@ input{
 
 }
 
-@media only screen and (max-width: 500px) {
+.width-res{
+  width: 12rem;
+}
+
+
+@media only screen and (max-width: 600px) {
   .sm_text_center {
     text-align: center;
   }
   .md_text_center{
     text-align: center;
   }
+  .width-res{
+    width: 8rem;
+  }
+  .my_row>*{
+    width:auto;
+  }
+
+
 }
